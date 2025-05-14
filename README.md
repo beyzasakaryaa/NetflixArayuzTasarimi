@@ -26,4 +26,4 @@ Projeyi çalıştırmak için:
 
 1. Bu repoyu klonlayın:
    ```bash
-   git clone https://github.com/kullaniciadi/netflix-arayuz-tasarimi.git
+   git clone https://github.com/beyzasakaryaa/NetflixArayuzTasarimi.git
