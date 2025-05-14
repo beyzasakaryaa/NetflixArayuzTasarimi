@@ -1,5 +1,8 @@
 # 🎬 Netflix Arayüz Tasarımı (Android / Kotlin)
 
+![image](https://github.com/user-attachments/assets/7b540e0a-221d-4064-8eca-c296d98b2bb2)
+
+
 Bu proje, Netflix uygulamasının ana sayfa ve detay ekranı benzeri bir arayüzü Android üzerinde Kotlin diliyle geliştirmeyi amaçlamaktadır. Kullanıcılar, listelenen film kartlarına tıklayarak detay sayfasına geçiş yapabilir.
 
 ## 📱 Özellikler
